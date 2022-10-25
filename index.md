@@ -53,7 +53,7 @@ You can check my <a href="My_resume.pdf" title="CV">CV</a>, <a href="https://git
 
 # Working Experiences
 
-I worked in **Microsoft Research Asia** mentored by <a href="https://www.microsoft.com/en-us/research/people/jiey/" title="Jie Yan">Dr. Jie Yan</a> and <a href="https://www.microsoft.com/en-us/research/people/cluo/" title="Chuan Luo">Chuan Luo</a> from Sept. 2020 to Jun. 2021, and was awarded *Stars of Tomorrow*.
+I worked in **Microsoft Research Asia** mentored by <a href="https://www.microsoft.com/en-us/research/people/jiey/" title="Jie Yan">Dr. Jie Yan</a> and <a href="https://scholar.google.com/citations?user=MfJGmUUAAAAJ&hl=zh-CN" title="Chuan Luo">Chuan Luo</a> from Sept. 2020 to Jun. 2021, and was awarded *Stars of Tomorrow*.
 
 # Teaching Experiences
 
