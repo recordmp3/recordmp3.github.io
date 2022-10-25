@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tips of the Day
-permalink: 289371298.github.io/about/ 
+permalink: /about/ 
 ---
 
 <br/>
