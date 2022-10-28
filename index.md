@@ -16,12 +16,12 @@ line-height: 0.8;
 </td>
 <td width="595" style="text-align:left">
 <div>
-<h1> Kai Yan </h1>
+<h1> Zhenggang Tang </h1>
 <h4 class="small"> Ph.D. Student </h4>
 <h4 class="small"> Department of Computer Science </h4>
 <h4 class="small"> University of Illinois Urbana Champaign </h4>
 <h4 class="small"> <b>Office:</b> CSL 130, 1308 W Main St, Urbana, IL 61801, United States</h4>
-<h4 class="small"> <b>Email:</b> kaiyan3 [at] illinois [dot] edu</h4>
+<h4 class="small"> <b>Email:</b> zt15 [at] illinois [dot] edu</h4>
 </div>
 </td>
 </tr>
@@ -31,7 +31,7 @@ line-height: 0.8;
 
 # Who am I?
 
-Hi there! I am Kai Yan (颜开 in Chinese), a second-year Ph.D. student in the Department of Computer Science at University of Illinois Urbana-Champaign (UIUC), co-advised by <a href="https://alexander-schwing.de/" title="Prof. Alex G. Schwing">Prof. Alexander Schwing</a> and <a href="https://yxw.web.illinois.edu/" title="Prof. Yu-Xiong Wang">Prof. Yu-Xiong Wang</a>. 
+Hi there! I am Zhenggang Tang (颜开 in Chinese), a second-year Ph.D. student in the Department of Computer Science at University of Illinois Urbana-Champaign (UIUC), co-advised by <a href="https://alexander-schwing.de/" title="Prof. Alex G. Schwing">Prof. Alexander Schwing</a> and <a href="https://yxw.web.illinois.edu/" title="Prof. Yu-Xiong Wang">Prof. Yu-Xiong Wang</a>. 
 Prior to that, I get my Bachelor of Science degree in computer science at Peking University with a *Summa Cum Laude* and a national scholarship. In my high school years, I learned informatics and got a silver award in the National Olympiad of Informatics (NOI 2016).
 
 My research interest is **deep learning for better decision making**, which is mainly **deep reinforcement learning and imitation learning**. I have conducted research in the following fields: 1) optimization with prediction, 
