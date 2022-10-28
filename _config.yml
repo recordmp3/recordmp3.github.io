@@ -23,7 +23,7 @@ email: kaiyan3@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Powered by Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
-url: 289371298.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: tzg.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
