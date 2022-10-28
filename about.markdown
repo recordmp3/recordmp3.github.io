@@ -1,18 +1,17 @@
 ---
 layout: page
-title: Tips of the Day
+title: About
 permalink: /about/ 
 ---
 
 <br/>
 
-*I express my heartfelt gratitude to the mentors of my research career, Prof. Alexander Schwing, Prof. Yu-xiong Wang, Dr. Jie Yan, Dr. Chuan Luo, Prof. Zongqing Lu (sorted by time), as well as all the wonderous people I have met at UIUC, 
-MSRA and PKU. I learned all these tips from my experiences working with you.*
+*I express my heartfelt gratitude to the mentors of my research career, Prof. Alexander Schwing, Dr. Stan Birchfield, Dr. Kan Ren, Prof. Yi Wu and Prof. Zongqing Lu (sorted by time), as well as all the wonderous people I have met at UIUC, NVIDIA, Microsoft Research Asia, Tsinghua University and Peking University.*
 
 
 <br/>
 
-<div class="quote"><p><i>"The palest ink is better than the strongest memory."</i></p></div> 
+<!-- <div class="quote"><p><i>"The palest ink is better than the strongest memory."</i></p></div> 
 
 <br/>
 
@@ -294,7 +293,7 @@ L-BFGS needs optimizer.step(closure()) where closure() gives the loss function. 
 
 104. Wasserstein distance in the Rubinstein-Kantorovich form assumes the underlying metric to be Euclidean, unless the definition of 1-Lipschitz is modified.
 
-105. The sample complexity of Wasserstein distance is bad, but for MMD it is good. Sinkhorn Divergence stands between them, and have a corresponding sample complexity. They are all called integral probability methods.
+105. The sample complexity of Wasserstein distance is bad, but for MMD it is good. Sinkhorn Divergence stands between them, and have a corresponding sample complexity. They are all called integral probability methods. -->
 
 <!--
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
