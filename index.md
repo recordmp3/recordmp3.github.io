@@ -39,7 +39,7 @@ You can check my <a href="tzg_resume.pdf" title="CV">CV</a>, <a href="https://sc
 
 # Publications and Preprints.
 
-**Zhenggang Tang**, Balakumar Sundaralingam, Jonathan Tremblay, Bowen Wen, Ye Yuan, Stephen Tyree, Charles Loop, Alexander Schwing, Stan Birchfield. <a href="https://arxiv.org/pdf/2210.11668.pdf" title="SDF reconstruction">"RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control"</a>, **Arxiv** 2210.11668, **submitted** to IEEE International Conference on Robotics and Automation (**ICRA**), 2023.
+**Zhenggang Tang**, Balakumar Sundaralingam, Jonathan Tremblay, Bowen Wen, Ye Yuan, Stephen Tyree, Charles Loop, Alexander Schwing, Stan Birchfield. <a href="https://arxiv.org/pdf/2210.11668.pdf" title="SDF reconstruction">"RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control"</a>, **Arxiv** 2210.11668, **Accepted** in IEEE International Conference on Robotics and Automation (**ICRA**), 2023.
 
 **Zhenggang Tang\***, Yuchen Fang\*, Kan Ren, Weiqing Liu, Jiang Bian, Zongqing Lu, Weinan Zhang, Yong Yu, Tie-yan Liu, "Learning Multi-Agent Intention-Aware Communication for Optimal Multi-Order Execution in Finance", **submitted** to IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2023. (\*contribute equally).
 
