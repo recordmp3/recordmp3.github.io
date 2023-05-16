@@ -39,11 +39,11 @@ You can check my <a href="tzg_resume.pdf" title="CV">CV</a>, <a href="https://sc
 
 # Publications and Preprints.
 
-**Zhenggang Tang**, Balakumar Sundaralingam, Jonathan Tremblay, Bowen Wen, Ye Yuan, Stephen Tyree, Charles Loop, Alexander Schwing, Stan Birchfield. <a href="https://arxiv.org/pdf/2210.11668.pdf" title="SDF reconstruction">"RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control"</a>, **Arxiv** 2210.11668, **Accepted** in IEEE International Conference on Robotics and Automation (**ICRA**), 2023.
+**Zhenggang Tang\***, Yuchen Fang\*, Kan Ren, Weiqing Liu, Jiang Bian, Zongqing Lu, Weinan Zhang, Yong Yu, Tie-yan Liu, "Learning Multi-Agent Intention-Aware Communication for Optimal Multi-Order Execution in Finance", ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 2023. (\*contribute equally).
 
-**Zhenggang Tang\***, Yuchen Fang\*, Kan Ren, Weiqing Liu, Jiang Bian, Zongqing Lu, Weinan Zhang, Yong Yu, Tie-yan Liu, "Learning Multi-Agent Intention-Aware Communication for Optimal Multi-Order Execution in Finance", **submitted** to IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2023. (\*contribute equally).
+**Zhenggang Tang**, Balakumar Sundaralingam, Jonathan Tremblay, Bowen Wen, Ye Yuan, Stephen Tyree, Charles Loop, Alexander Schwing, Stan Birchfield. <a href="https://arxiv.org/pdf/2210.11668.pdf" title="SDF reconstruction">"RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control"</a>, Arxiv 2210.11668, IEEE International Conference on Robotics and Automation (**ICRA**), 2023.
 
-**Zhenggang Tang\***, Chao Yu\*, Boyuan Chen, Huazhe Xu, Xiaolong Wang, Fei Fang, Simon Shaolei Du, Yu Wang, Yi Wu, <a href="https://openreview.net/forum?id=lvRTC669EY_" title="reward randomlization">"Discovering Diverse Multi-Agent Strategic Behavior via Reward Randomization"</a>, **accepted** in International Conference on Learning Representations (**ICLR**), 2021 (*contribute equally)
+**Zhenggang Tang\***, Chao Yu\*, Boyuan Chen, Huazhe Xu, Xiaolong Wang, Fei Fang, Simon Shaolei Du, Yu Wang, Yi Wu, <a href="https://openreview.net/forum?id=lvRTC669EY_" title="reward randomlization">"Discovering Diverse Multi-Agent Strategic Behavior via Reward Randomization"</a>, International Conference on Learning Representations (**ICLR**), 2021 (*contribute equally)
 
 **Zhenggang Tang\***, Kai Yan\*, Liting Sun, Wei Zhan, Changliu Liu. <a href="https://arxiv.org/abs/2108.06589" title="MARL">A Microscopic Pandemic Simulator for Pandemic Prediction Using Scalable Million-Agent Reinforcement Learning.</a>, **Arxiv** 2108.06589. (\*contribute equally)
 
