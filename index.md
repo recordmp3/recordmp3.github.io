@@ -83,3 +83,13 @@ Yuchen Fang\*, **Zhenggang Tang\***, Kan Ren, Weiqing Liu, Li Zhao, Jiang Bian, 
 	<img src="travel/onp3.jpg">
 	<img src="travel/onp4.jpg">
 </details>
+
+<details>
+	<summary>Ngawa, Sichuan</summary>
+	<text>credit to Ruxu Geng</text>
+	<img src="travel/sch1.jpg">
+	<img src="travel/sch2.jpg">
+	<img src="travel/sch3.jpg">
+	<img src="travel/sch4.jpg">
+	<img src="travel/sch5.jpg">
+</details>
