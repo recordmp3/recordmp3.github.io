@@ -30,7 +30,7 @@ line-height: 0.8;
 
 # Who am I?
 
-Hi there! I am Zhenggang Tang (唐正纲 in Chinese), a second-year Ph.D. student in the Department of Computer Science at University of Illinois Urbana-Champaign (UIUC), advised by <a href="https://alexander-schwing.de/" title="Prof. Alex G. Schwing">Prof. Alexander Schwing</a>. 
+Hi there! I am Zhenggang Tang (唐正纲 in Chinese), a third-year Ph.D. candidate in the Department of Computer Science at University of Illinois Urbana-Champaign (UIUC), advised by <a href="https://alexander-schwing.de/" title="Prof. Alex G. Schwing">Prof. Alexander Schwing</a>. 
 Prior to that, I get my Bachelor of Science degree in computer science at Peking University with a *Summa Cum Laude*. In my high school years, I learned informatics and got a silver award in the National Olympiad of Informatics (NOI 2016).
 
 My current research interest is **neural fields and their applications**, Previously I also had some research on reinforcement learning(RL) and multi-agent(MA) system. I have conducted or am conducting research in the following fields: 1) NeRF fast adaptation. 2). RGB-only SDF reconstruction for robotics manipulator control 3) MARL applications on finance and 4) epidemic simulation and 5) reward randomization for RL exploration.
