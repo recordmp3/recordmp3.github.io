@@ -39,6 +39,8 @@ You can check my <a href="tzg_resume.pdf" title="CV">CV</a>, <a href="https://sc
 
 # Publications and Preprints.
 
+**Zhenggang Tang**, Zhongzheng Ren, Xiaoming Zhao, Bowen Wen, Jonathan Tremblay, Stan Birchfield, Alexander Schwing, "NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows", submitted to CVPR 2024.
+
 Yuchen Fang\*, **Zhenggang Tang\***, Kan Ren, Weiqing Liu, Li Zhao, Jiang Bian, Dongsheng Li, Weinan Zhang, Yong Yu, Tie-Yan Liu, "Learning Multi-Agent Intention-Aware Communication for Optimal Multi-Order Execution in Finance", ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 2023. (\*contribute equally).
 
 **Zhenggang Tang**, Balakumar Sundaralingam, Jonathan Tremblay, Bowen Wen, Ye Yuan, Stephen Tyree, Charles Loop, Alexander Schwing, Stan Birchfield. <a href="https://arxiv.org/pdf/2210.11668.pdf" title="SDF reconstruction">"RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control"</a>, Arxiv 2210.11668, IEEE International Conference on Robotics and Automation (**ICRA**), 2023.
