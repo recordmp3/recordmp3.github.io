@@ -39,7 +39,7 @@ You can check my <a href="tzg_resume.pdf" title="CV">CV</a>, <a href="https://sc
 
 # Publications and Preprints.
 
-**Zhenggang Tang**, Zhongzheng Ren, Xiaoming Zhao, Bowen Wen, Jonathan Tremblay, Stan Birchfield, Alexander Schwing, "NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows", submitted to CVPR 2024.
+**Zhenggang Tang**, Zhongzheng Ren, Xiaoming Zhao, Bowen Wen, Jonathan Tremblay, Stan Birchfield, Alexander Schwing, "NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows", **CVPR** 2024.
 
 Yuchen Fang\*, **Zhenggang Tang\***, Kan Ren, Weiqing Liu, Li Zhao, Jiang Bian, Dongsheng Li, Weinan Zhang, Yong Yu, Tie-Yan Liu, <a href="https://arxiv.org/abs/2307.03119" title="MARL on multi-order execution">""Learning Multi-Agent Intention-Aware Communication for Optimal Multi-Order Execution in Finance"</a>,  ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 2023. (\*contribute equally).
 
