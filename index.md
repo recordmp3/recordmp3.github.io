@@ -33,7 +33,7 @@ line-height: 0.8;
 Hi there! I am Zhenggang Tang (唐正纲 in Chinese), a third-year Ph.D. candidate in the Department of Computer Science at University of Illinois Urbana-Champaign (UIUC), advised by <a href="https://alexander-schwing.de/" title="Prof. Alex G. Schwing">Prof. Alexander Schwing</a>. 
 Prior to that, I get my Bachelor of Science degree in computer science at Peking University with a *Summa Cum Laude*. In my high school years, I learned informatics and got a silver award in the National Olympiad of Informatics (NOI 2016).
 
-My current research interest is **neural fields and their applications**, Previously I also had some research on reinforcement learning(RL) and multi-agent(MA) system. I have conducted or am conducting research in the following fields: 1) NeRF transformation given single RGBD view. 2). RGB-only SDF reconstruction for robotics manipulator control 3) MARL applications on finance and 4) epidemic simulation and 5) reward randomization for RL exploration.
+My current research interest focus on **topics in 3D vision, from obj/scene reconstruction to transformation and editing**, Previously I also had some research on reinforcement learning(RL) and multi-agent(MA) system. I have conducted or am conducting research in the following fields: 1) NeRF transformation given single RGBD view. 2). RGB-only SDF reconstruction for robotics manipulator control 3) MARL applications on finance and 4) epidemic simulation and 5) reward randomization for RL exploration.
 
 You can check my <a href="tzg_resume.pdf" title="CV">CV</a>, <a href="https://scholar.google.com/citations?user=mGMy_kwAAAAJ" title="gs">Google Scholar</a>, <a href="https://github.com/recordmp3" title="github">Github</a> and <a href="https://www.linkedin.com/in/%E6%AD%A3%E7%BA%B2-%E5%94%90-9a9421201/" title="Linkedin">Linkedin</a> here.
 
@@ -51,8 +51,9 @@ Yuchen Fang\*, **Zhenggang Tang\***, Kan Ren, Weiqing Liu, Li Zhao, Jiang Bian, 
 
 # Working Experiences
 
-**NVIDIA** mentored by <a href="https://scholar.google.com/citations?user=_bKTUqAAAAAJ&hl=zh-CN" title="Stan">Dr. Stan Birchfield</a> from May. 2022 to Sept. 2022.
+**Meta** from May. 2024.
 
+**NVIDIA** mentored by <a href="https://scholar.google.com/citations?user=_bKTUqAAAAAJ&hl=zh-CN" title="Stan">Dr. Stan Birchfield</a> from May. 2022 to Sept. 2022.
 
 **Microsoft Research Asia** mentored by <a href="https://www.saying.ren/" title="Kan Ren">Dr. Kan Ren</a> and <a href="https://www.microsoft.com/en-us/research/people/weiqiliu/" title="Weiqing Liu">Dr. Weiqing Liu</a> from Dec. 2020 to May. 2021, and was awarded *Stars of Tomorrow*.
 
