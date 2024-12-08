@@ -39,7 +39,7 @@ You can check my <a href="tzg_resume.pdf" title="CV">CV</a>, <a href="https://sc
 
 # Publications and Preprints.
 
-**Zhenggang Tang**, Yuchen Fan, Dilin Wang, Hongyu Xu, Rakesh Ranjan, Alex Schwing, Zhicheng Yan, "MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds", Submission of CVPR 2025. **Arxiv** coming soon!
+**Zhenggang Tang**, Yuchen Fan, Dilin Wang, Hongyu Xu, Rakesh Ranjan, Alex Schwing, Zhicheng Yan, "MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds", **Arxiv** coming soon!
 
 **Zhenggang Tang**, Zhongzheng Ren, Xiaoming Zhao, Bowen Wen, Jonathan Tremblay, Stan Birchfield, Alexander Schwing, "NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows", **CVPR** 2024.
 
