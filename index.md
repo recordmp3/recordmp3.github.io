@@ -39,7 +39,7 @@ You can check my <a href="tzg_resume.pdf" title="CV">CV</a>, <a href="https://sc
 
 # Publications and Preprints.
 
-**Zhenggang Tang**, Yuchen Fan, Dilin Wang, Hongyu Xu, Rakesh Ranjan, Alex Schwing, Zhicheng Yan, <a href="https://arxiv.org/abs/2412.06974" title="MV-DUSt3R+">"MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds"</a>, **CVPR** 2025 <span style="color:red">Oral</span>. [[code]](https://github.com/facebookresearch/mvdust3r)|[[website]](https://mv-dust3rp.github.io/)|[[video]](https://www.youtube.com/watch?v=LBvnuKQ8Rso&ab_channel=ZGT)
+**Zhenggang Tang**, Yuchen Fan, Dilin Wang, Hongyu Xu, Rakesh Ranjan, Alex Schwing, Zhicheng Yan, <a href="https://arxiv.org/abs/2412.06974" title="MV-DUSt3R+">"MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds"</a>, **CVPR** 2025 <span style="color:red">**Oral**</span>. [[code]](https://github.com/facebookresearch/mvdust3r)|[[website]](https://mv-dust3rp.github.io/)|[[video]](https://www.youtube.com/watch?v=LBvnuKQ8Rso&ab_channel=ZGT)
 
 **Zhenggang Tang**, Zhongzheng Ren, Xiaoming Zhao, Bowen Wen, Jonathan Tremblay, Stan Birchfield, Alexander Schwing, "NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows", **CVPR** 2024.
 
