@@ -33,13 +33,16 @@ line-height: 0.8;
 Hi there! I am Zhenggang Tang (唐正纲 in Chinese), a third-year Ph.D. candidate in the Department of Computer Science at University of Illinois Urbana-Champaign (UIUC), advised by <a href="https://alexander-schwing.de/" title="Prof. Alex G. Schwing">Prof. Alexander Schwing</a>. 
 Prior to that, I get my Bachelor of Science degree in computer science at Peking University with a *Summa Cum Laude*. In my high school years, I learned informatics and got a silver award in the National Olympiad of Informatics (NOI 2016).
 
-My current research interest focus on **topics in 3D vision, from obj/scene reconstruction to transformation and editing**, Previously I also had some research on reinforcement learning(RL) and multi-agent(MA) system. I have conducted or am conducting research in the following fields: 1) NeRF transformation given single RGBD view. 2). RGB-only SDF reconstruction for robotics manipulator control 3) MARL applications on finance and 4) epidemic simulation and 5) reward randomization for RL exploration.
+I’m working on **multimodal foundation models**, including **unified understanding and generation**, **spatial-temporal understanding** and **spatial reconstruction**. 
+I’m also generally interested in **reinforcement learning** and **multi-agent systems**.
 
 You can check my <a href="tzg_resume.pdf" title="CV">CV</a>, <a href="https://scholar.google.com/citations?user=mGMy_kwAAAAJ" title="gs">Google Scholar</a>, <a href="https://github.com/recordmp3" title="github">Github</a> and <a href="https://www.linkedin.com/in/%E6%AD%A3%E7%BA%B2-%E5%94%90-9a9421201/" title="Linkedin">Linkedin</a> here.
 
 # Publications and Preprints.
 
-**Zhenggang Tang**, Yuchen Fan, Dilin Wang, Hongyu Xu, Rakesh Ranjan, Alex Schwing, Zhicheng Yan, <a href="https://arxiv.org/abs/2412.06974" title="MV-DUSt3R+">"MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds"</a>, **CVPR** 2025 <font color="green">**Oral**</font>. [[code]](https://github.com/facebookresearch/mvdust3r)[[website]](https://mv-dust3rp.github.io/)[[video]](https://www.youtube.com/watch?v=LBvnuKQ8Rso&ab_channel=ZGT)
+**Zhenggang Tang**, Yuchen Fan, Dilin Wang, Hongyu Xu, Rakesh Ranjan, Alex Schwing, Zhicheng Yan, <a href="https://arxiv.org/abs/2412.06974" title="MV-DUSt3R+">"MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds"</a>, **CVPR** 2025 <font color="red">Oral</font>, github 500+ stars. [[code]](https://github.com/facebookresearch/mvdust3r)[[website]](https://mv-dust3rp.github.io/)[[video]](https://www.youtube.com/watch?v=LBvnuKQ8Rso&ab_channel=ZGT)
+
+Haozhen Zheng, Beitong Tian, Mingyuan Wu, **Zhenggang Tang**, Klara Nahrstedt, Alex Schwing, "Spatio-Temporal LLM: Reasoning about Environments and Actions", arXiv preprint: 2507.05258.
 
 **Zhenggang Tang**, Zhongzheng Ren, Xiaoming Zhao, Bowen Wen, Jonathan Tremblay, Stan Birchfield, Alexander Schwing, "NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows", **CVPR** 2024.
 
@@ -53,48 +56,12 @@ Yuchen Fang\*, **Zhenggang Tang\***, Kan Ren, Weiqing Liu, Li Zhao, Jiang Bian, 
 
 # Working Experiences
 
-**Meta** from May. 2024.
+**Meta** mentored by <a href="https://scholar.google.com/citations?user=JFEHAwIAAAAJ&hl=en" title="zhicheng yan">Dr. Zhicheng Yan</a> from May. 2025 to present.
+
+**Meta** mentored by <a href="https://scholar.google.com/citations?user=JFEHAwIAAAAJ&hl=en" title="zhicheng yan">Dr. Zhicheng Yan</a> from May. 2024 to January 2025.
 
 **NVIDIA** mentored by <a href="https://scholar.google.com/citations?user=_bKTUqAAAAAJ&hl=zh-CN" title="Stan">Dr. Stan Birchfield</a> from May. 2022 to Sept. 2022.
 
 **Microsoft Research Asia** mentored by <a href="https://www.saying.ren/" title="Kan Ren">Dr. Kan Ren</a> and <a href="https://www.microsoft.com/en-us/research/people/weiqiliu/" title="Weiqing Liu">Dr. Weiqing Liu</a> from Dec. 2020 to May. 2021, and was awarded *Stars of Tomorrow*.
 
 **Institute for Interdisciplinary Information Sciences, Tsinghua University** mentored by <a href="https://jxwuyi.weebly.com/" title="Yi Wu">Prof. Yi Wu</a> from Nov. 2019 to May. 2020.
-
-# Random photos of travel
-
-<details>
-	<summary>Mt. Rainier, WA</summary>
-	<img src="travel/mtr.jpg">
-	<img src="travel/mtr2.jpg">
-	<img src="travel/mtr3.jpg">
-	<img src="travel/mtr4.jpg">
-	<img src="travel/mtr5.jpg">
-</details>
-
-
-<details>
-	<summary>Michigan Upper Peninsula, MI</summary>
-	<img src="travel/mup.jpg">
-	<img src="travel/mup2.jpg">
-	<img src="travel/mup3.jpg">
-</details>
-
-
-<details>
-	<summary>Olympic National Park, WA</summary>
-	<img src="travel/onp.jpg">
-	<img src="travel/onp2.jpg">
-	<img src="travel/onp3.jpg">
-	<img src="travel/onp4.jpg">
-</details>
-
-<details>
-	<summary>Ngawa, Sichuan</summary>
-	<img src="travel/sch1.jpg">
-	<text>galaxy credits to **Ruxu Geng**</text>
-	<img src="travel/sch2.jpg">
-	<img src="travel/sch3.jpg">
-	<img src="travel/sch4.jpg">
-	<img src="travel/sch5.jpg">
-</details>
