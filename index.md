@@ -30,7 +30,7 @@ line-height: 0.8;
 
 # Who am I?
 
-Hi there! I am Zhenggang Tang (唐正纲 in Chinese), a third-year Ph.D. candidate in the Department of Computer Science at University of Illinois Urbana-Champaign (UIUC), advised by <a href="https://alexander-schwing.de/" title="Prof. Alex G. Schwing">Prof. Alexander Schwing</a>. 
+Hi there! I am Zhenggang Tang (唐正纲 in Chinese), a final-year Ph.D. candidate in the Department of Computer Science at University of Illinois Urbana-Champaign (UIUC), advised by <a href="https://alexander-schwing.de/" title="Prof. Alex G. Schwing">Prof. Alexander Schwing</a>. 
 Prior to that, I get my Bachelor of Science degree in computer science at Peking University with a *Summa Cum Laude*. In my high school years, I learned informatics and got a silver award in the National Olympiad of Informatics (NOI 2016).
 
 I’m working on **multimodal foundation models**, including **unified understanding and generation**, **spatial-temporal understanding** and **spatial reconstruction**. 
@@ -40,9 +40,11 @@ You can check my <a href="tzg_resume.pdf" title="CV">CV</a>, <a href="https://sc
 
 # Publications and Preprints.
 
+**Zhenggang Tang**\*, Yuehao Wang\*, Yuchen Fan, Jun-Kun Chen, Yu-Ying Yeh, Kihyuk Sohn, Zhangyang Wang, Qixing Huang, Rakesh Ranjan, Dilin Wang, Zhicheng Yan, <a href="" title="Autoregressive 3D Diffusion">"Autoregressive Diffusion Modeling for Compositional Text-to-3D Generation"</a>, In submission. (*contribute equally).
+
 **Zhenggang Tang**, Yuchen Fan, Dilin Wang, Hongyu Xu, Rakesh Ranjan, Alex Schwing, Zhicheng Yan, <a href="https://arxiv.org/abs/2412.06974" title="MV-DUSt3R+">"MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds"</a>, **CVPR** 2025 <font color="red">Oral</font>, github 500+ stars. [[code]](https://github.com/facebookresearch/mvdust3r)[[website]](https://mv-dust3rp.github.io/)[[video]](https://www.youtube.com/watch?v=LBvnuKQ8Rso&ab_channel=ZGT)
 
-Haozhen Zheng, Beitong Tian, Mingyuan Wu, **Zhenggang Tang**, Klara Nahrstedt, Alex Schwing, "Spatio-Temporal LLM: Reasoning about Environments and Actions", arXiv preprint: 2507.05258.
+Haozhen Zheng, Beitong Tian, Mingyuan Wu, **Zhenggang Tang**, Klara Nahrstedt, Alex Schwing, "Spatio-Temporal LLM: Reasoning about Environments and Actions", **Arxiv** preprint: 2507.05258.
 
 **Zhenggang Tang**, Zhongzheng Ren, Xiaoming Zhao, Bowen Wen, Jonathan Tremblay, Stan Birchfield, Alexander Schwing, "NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows", **CVPR** 2024.
 
