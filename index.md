@@ -58,12 +58,12 @@ Yuchen Fang\*, **Zhenggang Tang\***, Kan Ren, Weiqing Liu, Li Zhao, Jiang Bian, 
 
 # Working Experiences
 
-**Meta** mentored by <a href="https://scholar.google.com/citations?user=JFEHAwIAAAAJ&hl=en" title="zhicheng yan">Dr. Zhicheng Yan</a> from May. 2025 to present.
+**Meta** mentored by <a href="https://scholar.google.com/citations?user=JFEHAwIAAAAJ&hl=en" title="zhicheng yan">Zhicheng Yan</a> and <a href="https://scholar.google.com/citations?user=dmTy9EIAAAAJ&hl=en" title="dilin wang">Dilin Wang</a> from May. 2025 to present.
 
-**Meta** mentored by <a href="https://scholar.google.com/citations?user=JFEHAwIAAAAJ&hl=en" title="zhicheng yan">Dr. Zhicheng Yan</a> from May. 2024 to January 2025.
+**Meta** mentored by <a href="https://scholar.google.com/citations?user=JFEHAwIAAAAJ&hl=en" title="zhicheng yan">Zhicheng Yan</a> from May. 2024 to January 2025.
 
-**NVIDIA** mentored by <a href="https://scholar.google.com/citations?user=_bKTUqAAAAAJ&hl=zh-CN" title="Stan">Dr. Stan Birchfield</a> from May. 2022 to Sept. 2022.
+**NVIDIA** mentored by <a href="https://scholar.google.com/citations?user=_bKTUqAAAAAJ&hl=zh-CN" title="Stan">Stan Birchfield</a> from May. 2022 to Sept. 2022.
 
-**Microsoft Research Asia** mentored by <a href="https://www.saying.ren/" title="Kan Ren">Dr. Kan Ren</a> and <a href="https://www.microsoft.com/en-us/research/people/weiqiliu/" title="Weiqing Liu">Dr. Weiqing Liu</a> from Dec. 2020 to May. 2021, and was awarded *Stars of Tomorrow*.
+**Microsoft Research Asia** mentored by <a href="https://www.saying.ren/" title="Kan Ren">Kan Ren</a> and <a href="https://www.microsoft.com/en-us/research/people/weiqiliu/" title="Weiqing Liu">Dr. Weiqing Liu</a> from Dec. 2020 to May. 2021, and was awarded *Stars of Tomorrow*.
 
-**Institute for Interdisciplinary Information Sciences, Tsinghua University** mentored by <a href="https://jxwuyi.weebly.com/" title="Yi Wu">Prof. Yi Wu</a> from Nov. 2019 to May. 2020.
+**Institute for Interdisciplinary Information Sciences, Tsinghua University** mentored by <a href="https://jxwuyi.weebly.com/" title="Yi Wu">Yi Wu</a> from Nov. 2019 to May. 2020.
