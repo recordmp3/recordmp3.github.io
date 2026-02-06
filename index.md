@@ -36,6 +36,8 @@ Prior to that, I get my Bachelor of Science degree in computer science at Peking
 I’m working on **multimodal foundation models**, including **unified understanding and generation**, **spatial-temporal understanding** and **spatial reconstruction**. 
 I’m also generally interested in **reinforcement learning** and **multi-agent systems**.
 
+I'm **actively searching for jobs!**
+
 You can check my <a href="tzg_resume.pdf" title="CV">CV</a>, <a href="https://scholar.google.com/citations?user=mGMy_kwAAAAJ" title="gs">Google Scholar</a>, <a href="https://github.com/recordmp3" title="github">Github</a> and <a href="https://www.linkedin.com/in/%E6%AD%A3%E7%BA%B2-%E5%94%90-9a9421201/" title="Linkedin">Linkedin</a> here.
 
 # Publications and Preprints.
