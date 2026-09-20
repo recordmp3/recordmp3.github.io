@@ -33,8 +33,8 @@ line-height: 0.8;
 Hi there! I am Zhenggang Tang (唐正纲 in Chinese), a final-year Ph.D. candidate in the Department of Computer Science at University of Illinois Urbana-Champaign (UIUC), advised by <a href="https://alexander-schwing.de/" title="Prof. Alex G. Schwing">Prof. Alexander Schwing</a>. 
 Prior to that, I get my Bachelor of Science degree in computer science at Peking University with a *Summa Cum Laude*. In my high school years, I learned informatics and got a silver award in the National Olympiad of Informatics (NOI 2016).
 
-I’m working on **multimodal foundation models**, including **unified understanding and generation**, **spatial-temporal understanding** and **spatial reconstruction**. 
-I’m also generally interested in **reinforcement learning** and **multi-agent systems**.
+I’m working on multimodal foundation models, including unified understanding and generation, spatial-temporal understanding and spatial reconstruction.
+I’m also generally interested in reinforcement learning and multi-agent systems.
 
 I'm currently working at Luma AI.
 
