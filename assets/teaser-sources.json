@@ -1,0 +1,83 @@
+{
+  "autoreg": {
+    "pdf_page": 1,
+    "crop_points": [
+      70,
+      451,
+      550,
+      576
+    ]
+  },
+  "mvdust": {
+    "pdf_page": 1,
+    "crop_points": [
+      70,
+      402,
+      550,
+      574
+    ]
+  },
+  "stllm": {
+    "pdf_page": 2,
+    "crop_points": [
+      108,
+      79,
+      556,
+      211
+    ]
+  },
+  "pixel": {
+    "pdf_page": 2,
+    "crop_points": [
+      64,
+      75,
+      555,
+      267
+    ]
+  },
+  "nerf": {
+    "pdf_page": 1,
+    "crop_points": [
+      308,
+      237,
+      548,
+      383
+    ]
+  },
+  "finance": {
+    "pdf_page": 2,
+    "crop_points": [
+      53,
+      83,
+      294,
+      155
+    ]
+  },
+  "robot": {
+    "pdf_page": 4,
+    "crop_points": [
+      54,
+      49,
+      565,
+      265
+    ]
+  },
+  "reward": {
+    "pdf_page": 6,
+    "crop_points": [
+      138,
+      399,
+      470,
+      464
+    ]
+  },
+  "pandemic": {
+    "pdf_page": 3,
+    "crop_points": [
+      318,
+      53,
+      557,
+      252
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+[
+  {
+    "id": "mvdust",
+    "title": "MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views in 2 Seconds",
+    "authors": "Zhenggang Tang, Yuchen Fan, Dilin Wang, Hongyu Xu, Rakesh Ranjan, Alex Schwing, Zhicheng Yan",
+    "venue": "CVPR 2025",
+    "badge": "Oral",
+    "topic": "3D reconstruction",
+    "cats": "vision",
+    "figure": "Figure 1",
+    "alt": "Two reconstructed indoor scenes and the sparse RGB views used as input.",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2412.06974"
+      ],
+      [
+        "Project",
+        "https://mv-dust3rp.github.io/"
+      ],
+      [
+        "Code",
+        "https://github.com/facebookresearch/mvdust3r"
+      ],
+      [
+        "Video",
+        "https://www.youtube.com/watch?v=LBvnuKQ8Rso"
+      ]
+    ]
+  },
+  {
+    "id": "autoreg",
+    "title": "Autoregressive Diffusion Modeling for Compositional Text-to-3D Generation",
+    "authors": "Zhenggang Tang*, Yuehao Wang*, Yuchen Fan, Jun-Kun Chen, Yu-Ying Yeh, Kihyuk Sohn, Zhangyang Wang, Qixing Huang, Rakesh Ranjan, Dilin Wang, Zhicheng Yan",
+    "venue": "Preprint",
+    "badge": "Under submission",
+    "topic": "3D generation",
+    "cats": "vision multimodal",
+    "figure": "Figure 1",
+    "alt": "A 3D bedroom composed through sequential text instructions, with the generated scene shown alongside.",
+    "links": [
+      [
+        "Paper",
+        "https://recordmp3.github.io/3dargen.pdf"
+      ]
+    ]
+  },
+  {
+    "id": "stllm",
+    "title": "Spatio-Temporal LLM: Reasoning about Environments and Actions",
+    "authors": "Haozhen Zheng, Beitong Tian, Mingyuan Wu, Zhenggang Tang, Klara Nahrstedt, Alex Schwing",
+    "venue": "ICML 2026",
+    "badge": "",
+    "topic": "Multimodal reasoning",
+    "cats": "multimodal vision",
+    "figure": "Figure 1",
+    "alt": "A reconstructed indoor scene linked to egocentric observations and questions about environments and actions.",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2507.05258"
+      ]
+    ]
+  },
+  {
+    "id": "pixel",
+    "title": "Pixel-Aligned Multi-View Generation with Depth Guided Decoder",
+    "authors": "Zhenggang Tang, Peiye Zhuang, Chaoyang Wang, Aliaksandr Siarohin, Yash Kant, Alexander Schwing, Sergey Tulyakov, Hsin-Ying Lee",
+    "venue": "CVPR 2025 Workshop",
+    "badge": "",
+    "topic": "Multi-view generation",
+    "cats": "vision",
+    "figure": "Figure 1",
+    "alt": "Multi-view generation results comparing pixel alignment across objects and reconstruction methods.",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2408.14016"
+      ]
+    ]
+  },
+  {
+    "id": "nerf",
+    "title": "NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows",
+    "authors": "Zhenggang Tang, Zhongzheng Ren, Xiaoming Zhao, Bowen Wen, Jonathan Tremblay, Stan Birchfield, Alexander Schwing",
+    "venue": "CVPR 2024",
+    "badge": "",
+    "topic": "3D scene editing",
+    "cats": "vision",
+    "figure": "Figure 1",
+    "alt": "A toy bulldozer NeRF transformed from a single RGB-D observation, with novel views and an exported mesh.",
+    "links": [
+      [
+        "Paper",
+        "https://openaccess.thecvf.com/content/CVPR2024/html/Tang_NeRFDeformer_NeRF_Transformation_from_a_Single_View_via_3D_Scene_CVPR_2024_paper.html"
+      ],
+      [
+        "Project",
+        "https://nerfdeformer.github.io/"
+      ]
+    ]
+  },
+  {
+    "id": "finance",
+    "title": "Learning Multi-Agent Intention-Aware Communication for Optimal Multi-Order Execution in Finance",
+    "authors": "Yuchen Fang*, Zhenggang Tang*, Kan Ren, Weiqing Liu, Li Zhao, Jiang Bian, Dongsheng Li, Weinan Zhang, Yong Yu, Tie-Yan Liu",
+    "venue": "KDD 2023",
+    "badge": "",
+    "topic": "Multi-agent learning",
+    "cats": "agents",
+    "figure": "Figure 1",
+    "alt": "Portfolio order execution and cash utilization illustrating the need for coordination between trading agents.",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2307.03119"
+      ]
+    ]
+  },
+  {
+    "id": "robot",
+    "title": "RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control",
+    "authors": "Zhenggang Tang, Balakumar Sundaralingam, Jonathan Tremblay, Bowen Wen, Ye Yuan, Stephen Tyree, Charles Loop, Alexander Schwing, Stan Birchfield",
+    "venue": "ICRA 2023",
+    "badge": "",
+    "topic": "Robotics & reconstruction",
+    "cats": "vision",
+    "figure": "Figure 3",
+    "alt": "Tabletop RGB inputs and 3D scene reconstructions used for collision-free robot control.",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2210.11668"
+      ],
+      [
+        "Project",
+        "https://ngp-mpc.github.io/"
+      ]
+    ]
+  },
+  {
+    "id": "reward",
+    "title": "Discovering Diverse Multi-Agent Strategic Behavior via Reward Randomization",
+    "authors": "Zhenggang Tang*, Chao Yu*, Boyuan Chen, Huazhe Xu, Xiaolong Wang, Fei Fang, Simon Shaolei Du, Yu Wang, Yi Wu",
+    "venue": "ICLR 2021",
+    "badge": "",
+    "topic": "Reinforcement learning",
+    "cats": "agents",
+    "figure": "Figure 5",
+    "alt": "Agar.io game mechanics illustrating how agents can split, hunt, and merge.",
+    "links": [
+      [
+        "Paper",
+        "https://openreview.net/forum?id=lvRTC669EY_"
+      ],
+      [
+        "Project",
+        "https://sites.google.com/view/staghuntrpg"
+      ]
+    ]
+  },
+  {
+    "id": "pandemic",
+    "title": "A Microscopic Pandemic Simulator for Pandemic Prediction Using Scalable Million-Agent Reinforcement Learning",
+    "authors": "Zhenggang Tang*, Kai Yan*, Liting Sun, Wei Zhan, Changliu Liu",
+    "venue": "Preprint 2021",
+    "badge": "",
+    "topic": "Multi-agent simulation",
+    "cats": "agents",
+    "figure": "Figure 1",
+    "alt": "The microscopic pandemic simulator and its interaction with scalable multi-agent reinforcement learning.",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2108.06589"
+      ]
+    ]
+  }
+]
