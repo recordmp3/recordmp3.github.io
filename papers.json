@@ -1,5 +1,39 @@
 [
   {
+    "id": "sear",
+    "title": "SEAR: Self-Evolving Agentic Robotics",
+    "authors": "Xinyi Wang, Bangzheng Li, Hanyu Wang, Lin Zhang, Andrea Yaoyun Cui, Zhenggang Tang, Shyamal Buch, Dejia Xu",
+    "venue": "Preprint",
+    "badge": "Under submission",
+    "topic": "Self-evolving robotics",
+    "cats": "evolving multimodal",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2610.18792"
+      ]
+    ],
+    "figure": "Figure 1",
+    "alt": "Simulation, real-robot and embodiment-generalization rollouts of language-model agents that improve robot control on their own."
+  },
+  {
+    "id": "liberorig",
+    "title": "LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Models",
+    "authors": "Andrea Yaoyun Cui, Hanyu Wang, Xinyi Wang, Bangzheng Li, Lin Zhang, Zhenggang Tang, Shyamal Buch, Dejia Xu, Matthew Tancik",
+    "venue": "Preprint",
+    "badge": "Under submission",
+    "topic": "Robot policy robustness",
+    "cats": "evolving multimodal",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2610.18843"
+      ]
+    ],
+    "figure": "Figure 1",
+    "alt": "Perturbing a robot rig along camera, calibration, actuation and gripper axes, and the resulting drop in success rate."
+  },
+  {
     "id": "mvdust",
     "title": "MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views in 2 Seconds",
     "authors": "Zhenggang Tang, Yuchen Fan, Dilin Wang, Hongyu Xu, Rakesh Ranjan, Alex Schwing, Zhicheng Yan",
