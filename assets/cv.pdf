@@ -1,249 +1,1366 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 9 0 R /F4 10 0 R
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Zhenggang Tang)
+/CreationDate (D\07220260928193913\05507\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260928193913\05507\04700\047)
+/Subject (Research curriculum vitae)
+/Title (Zhenggang Tang Curriculum Vitae)
+/Trapped (\057False)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 20 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (mailto:zt15@illinois.edu)
->> /Border [ 0 0 0 ] /Rect [ 486.1135 794.4794 552.7559 805.0394 ] /Subtype /Link /Type /Annot
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ]
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 14 0 R
+/F1-0 15 0 R
+/F2 16 0 R
+/F2-0 17 0 R
+/F3 18 0 R
+/F4 19 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://recordmp3.github.io/)
->> /Border [ 0 0 0 ] /Rect [ 474.9903 768.8794 552.7559 779.4394 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (mailto\072zt15\100illinois\056edu)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 486.1135 794.4794 552.7559 805.0394 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://scholar.google.com/citations?user=mGMy_kwAAAAJ)
->> /Border [ 0 0 0 ] /Rect [ 457.5399 756.0794 518.1895 766.6394 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057recordmp3\056github\056io\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 474.9903 768.8794 552.7559 779.4394 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/recordmp3)
->> /Border [ 0 0 0 ] /Rect [ 525.3703 756.0794 552.7559 766.6394 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057scholar\056google\056com\057citations\077user\075mGMy\137kwAAAAJ)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 457.5399 756.0794 518.1895 766.6394 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.linkedin.com/in/zhenggang-tang-9a9421201/)
->> /Border [ 0 0 0 ] /Rect [ 519.4919 743.2794 552.7559 753.8394 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057recordmp3)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 525.3703 756.0794 552.7559 766.6394 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056linkedin\056com\057in\057zhenggang\055tang\0559a9421201\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 519.4919 743.2794 552.7559 753.8394 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572610\05618792)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 489.5872 161.1 514.3454 171 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 11 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://recordmp3.github.io/3dargen.pdf)
->> /Border [ 0 0 0 ] /Rect [ 248.4592 149.9923 547.8904 160.7323 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572610\05618792)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 42.51969 150.6 154.8517 160.5 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 12 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2507.05258)
->> /Border [ 0 0 0 ] /Rect [ 441.448 101.7151 529.9814 112.4551 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572610\05618843)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 42.51969 102.6 383.1869 112.5 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 13 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2507.05258)
->> /Border [ 0 0 0 ] /Rect [ 42.51969 88.91512 216.633 99.65512 ] /Subtype /Link /Type /Annot
+/Length 9912
 >>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.85098 0.886275 0.862745 RG
+0.5 w
+n
+42.51969 28.34646 m
+552.7559 28.34646 l
+S
+BT
+/F1 6.8 Tf
+8.16 TL
+ET
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 42.51969 18.4252 Tm
+(ZHENGGANG TANG  \174  CURRICULUM VITAE) Tj
+T*
+ET
+BT
+1 0 0 1 548.9751 18.4252 Tm
+(1) Tj
+T*
+ET
+Q
+q
+1 0 0 1 42.51969 721.9291 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 50.11024 cm
+q
+0.098039 0.203922 0.176471 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 31 Tf
+33 TL
+(Zhenggang Tang) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 9.354331 cm
+q
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 0 18.1 Tm
+/F1 9.9 Tf
+14 TL
+(Research in self\055evolving robotic systems\054 multimodal foundation models\054 unified) Tj
+T*
+(generation\054 3D reconstruction\054 reinforcement learning\054 and multi\055agent systems\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 354.3307 19.11024 cm
+q
+BT
+1 0 0 1 0 55.2 Tm
+89.26311 0 Td
+12.8 TL
+/F1 8.8 Tf
+0.14902 0.462745 0.396078 rg
+(zt15\100illinois\056edu) Tj
+0.4 0.45098 0.431373 rg
+T*
+-0.624798 0 Td
+(\0531 217\055200\0550937) Tj
+T*
+-10.4984 0 Td
+0.14902 0.462745 0.396078 rg
+(recordmp3\056github\056io) Tj
+0.4 0.45098 0.431373 rg
+T*
+-17.4504 0 Td
+0.14902 0.462745 0.396078 rg
+(Google Scholar) Tj
+0.4 0.45098 0.431373 rg
+( \174 ) Tj
+0.14902 0.462745 0.396078 rg
+(GitHub) Tj
+0.4 0.45098 0.431373 rg
+T*
+61.952 0 Td
+0.14902 0.462745 0.396078 rg
+(LinkedIn) Tj
+T*
+-122.6415 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.51969 720.937 cm
+q
+0.85098 0.886275 0.862745 rg
+n
+0 0.992126 510.2362 -0.992126 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 0 2 Tm
+T*
+ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.51969 677.5906 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 8.503937 cm
+q
+0.098039 0.203922 0.176471 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F3 12.5 Tf
+15 TL
+(EDUCATION) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 155.9055 10.50394 Tm
+T*
+ET
+q
+1 J
+1 j
+0.85098 0.886275 0.862745 RG
+0.55 w
+n
+0 0 m
+510.2362 0 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 42.51969 635.4717 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 29.0189 cm
+q
+0.098039 0.203922 0.176471 rg
+BT
+1 0 0 1 0 2.8 Tm
+/F3 10.3 Tf
+13.1 TL
+(University of Illinois Urbana\055Champaign) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 17.3189 cm
+q
+0.14902 0.462745 0.396078 rg
+BT
+1 0 0 1 0 2.9 Tm
+/F4 8.8 Tf
+11.7 TL
+(Ph\056D\056 in Computer Science) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 4.818898 cm
+q
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9 Tf
+12.5 TL
+(Advisor\072 Prof\056 Alexander Schwing) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 405.3543 30.6189 cm
+q
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 8.5 Tf
+11.5 TL
+24.54839 0 Td
+(Aug 2021 \055 Sep 2026) Tj
+T*
+-24.54839 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.51969 593.3528 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 29.0189 cm
+q
+0.098039 0.203922 0.176471 rg
+BT
+1 0 0 1 0 2.8 Tm
+/F3 10.3 Tf
+13.1 TL
+(Peking University) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 17.3189 cm
+q
+0.14902 0.462745 0.396078 rg
+BT
+1 0 0 1 0 2.9 Tm
+/F4 8.8 Tf
+11.7 TL
+(B\056S\056 in Computer Science\054 Summa Cum Laude) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 4.818898 cm
+q
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9 Tf
+12.5 TL
+(School of EECS \174 GPA\072 3\05680\0574\05600 \174 Rank\072 5\05791) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 405.3543 30.6189 cm
+q
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 8.5 Tf
+11.5 TL
+25.96789 0 Td
+(Sep 2017 \055 Jun 2021) Tj
+T*
+-25.96789 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.51969 550.0063 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 8.503937 cm
+q
+0.098039 0.203922 0.176471 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F3 12.5 Tf
+15 TL
+(EXPERIENCE) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 155.9055 10.50394 Tm
+T*
+ET
+q
+1 J
+1 j
+0.85098 0.886275 0.862745 RG
+0.55 w
+n
+0 0 m
+510.2362 0 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 42.51969 504.2024 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 32.70394 cm
+q
+0.098039 0.203922 0.176471 rg
+BT
+1 0 0 1 0 2.8 Tm
+/F3 10.3 Tf
+13.1 TL
+(Luma AI) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 21.00394 cm
+q
+0.14902 0.462745 0.396078 rg
+BT
+1 0 0 1 0 2.9 Tm
+/F4 8.8 Tf
+11.7 TL
+(Research Scientist) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 8.503937 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+12.5 TL
+/F1 9 Tf
+0.4 0.45098 0.431373 rg
+(Building ) Tj
+/F3 9 Tf
+(self\055evolving robotic systems\073 post\055training LLMs and world models) Tj
+/F1 9 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 405.3543 34.30394 cm
+q
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 8.5 Tf
+11.5 TL
+32.59789 0 Td
+(Aug 2026 \055 Current) Tj
+T*
+-32.59789 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.51969 458.3984 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 32.70394 cm
+q
+0.098039 0.203922 0.176471 rg
+BT
+1 0 0 1 0 2.8 Tm
+/F3 10.3 Tf
+13.1 TL
+(Meta) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 21.00394 cm
+q
+0.14902 0.462745 0.396078 rg
+BT
+1 0 0 1 0 2.9 Tm
+/F4 8.8 Tf
+11.7 TL
+(Research Scientist Intern\054 XR Tech Core AI) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 8.503937 cm
+q
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9 Tf
+12.5 TL
+(Developed unified spatial understanding and generation with large language models\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 405.3543 34.30394 cm
+q
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 8.5 Tf
+11.5 TL
+23.62189 0 Td
+(May 2025 \055 Dec 2025) Tj
+T*
+-23.62189 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.51969 400.0945 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 45.20394 cm
+q
+0.098039 0.203922 0.176471 rg
+BT
+1 0 0 1 0 2.8 Tm
+/F3 10.3 Tf
+13.1 TL
+(Meta) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 33.50394 cm
+q
+0.14902 0.462745 0.396078 rg
+BT
+1 0 0 1 0 2.9 Tm
+/F4 8.8 Tf
+11.7 TL
+(Research Scientist Intern\054 XR Tech Core AI) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 8.503937 cm
+q
+BT
+1 0 0 1 0 16 Tm
+12.5 TL
+/F1 9 Tf
+0.4 0.45098 0.431373 rg
+(Built efficient single\055stage 3D scene reconstruction from pose\055free RGB views\073 published as a ) Tj
+/F3 9 Tf
+(CVPR) Tj
+T*
+(2025 Oral) Tj
+/F1 9 Tf
+( with 500\053 GitHub stars\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 405.3543 46.80394 cm
+q
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 8.5 Tf
+11.5 TL
+25.03289 0 Td
+(May 2024 \055 Jan 2025) Tj
+T*
+-25.03289 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.51969 354.2906 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 32.70394 cm
+q
+0.098039 0.203922 0.176471 rg
+BT
+1 0 0 1 0 2.8 Tm
+/F3 10.3 Tf
+13.1 TL
+(Snap Inc\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 21.00394 cm
+q
+0.14902 0.462745 0.396078 rg
+BT
+1 0 0 1 0 2.9 Tm
+/F4 8.8 Tf
+11.7 TL
+(Research Scientist Intern\054 Creative Vision Group) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 8.503937 cm
+q
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9 Tf
+12.5 TL
+(Researched pixel\055aligned multi\055view generation for 3D content creation\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 405.3543 34.30394 cm
+q
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 8.5 Tf
+11.5 TL
+25.03289 0 Td
+(Jan 2024 \055 May 2024) Tj
+T*
+-25.03289 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.51969 308.4866 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 32.70394 cm
+q
+0.098039 0.203922 0.176471 rg
+BT
+1 0 0 1 0 2.8 Tm
+/F3 10.3 Tf
+13.1 TL
+(NVIDIA) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 21.00394 cm
+q
+0.14902 0.462745 0.396078 rg
+BT
+1 0 0 1 0 2.9 Tm
+/F4 8.8 Tf
+11.7 TL
+(Research Scientist Intern) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 8.503937 cm
+q
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9 Tf
+12.5 TL
+(Developed RGB\055only reconstruction of tabletop scenes for collision\055free robot manipulation\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 405.3543 34.30394 cm
+q
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 8.5 Tf
+11.5 TL
+25.50889 0 Td
+(May 2022 \055 Oct 2022) Tj
+T*
+-25.50889 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.51969 262.6827 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 32.70394 cm
+q
+0.098039 0.203922 0.176471 rg
+BT
+1 0 0 1 0 2.8 Tm
+/F3 10.3 Tf
+13.1 TL
+(Microsoft Research Asia) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 21.00394 cm
+q
+0.14902 0.462745 0.396078 rg
+BT
+1 0 0 1 0 2.9 Tm
+/F4 8.8 Tf
+11.7 TL
+(Research Scientist Intern\054 Fintech Group) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 8.503937 cm
+q
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9 Tf
+12.5 TL
+(Studied intention\055aware multi\055agent learning for coordinated multi\055order execution\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 405.3543 34.30394 cm
+q
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 8.5 Tf
+11.5 TL
+25.50889 0 Td
+(Oct 2020 \055 May 2021) Tj
+T*
+-25.50889 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.51969 216.8787 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 32.70394 cm
+q
+0.098039 0.203922 0.176471 rg
+BT
+1 0 0 1 0 2.8 Tm
+/F3 10.3 Tf
+13.1 TL
+(Tsinghua University) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 21.00394 cm
+q
+0.14902 0.462745 0.396078 rg
+BT
+1 0 0 1 0 2.9 Tm
+/F4 8.8 Tf
+11.7 TL
+(Research Intern\054 IIIS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 8.503937 cm
+q
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9 Tf
+12.5 TL
+(Studied diverse strategic behavior in multi\055agent reinforcement learning\073 mentored by Yi Wu\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 405.3543 34.30394 cm
+q
+0.4 0.45098 0.431373 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 8.5 Tf
+11.5 TL
+23.62189 0 Td
+(Nov 2019 \055 May 2020) Tj
+T*
+-23.62189 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.51969 173.5323 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 8.503937 cm
+Q
+Q
+Q
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.098039 0.203922 0.176471 rg
+BT
+/F2-0 12.5 Tf
+15 TL
+ET
+BT
+1 0 0 1 42.51969 184.5 Tm
+(PUBLICATIONS) Tj
+T*
+ET
+0.85098 0.886275 0.862745 RG
+0.55 w
+n
+42.51969 179.5 m
+552.7559 179.5 l
+S
+q
+1 0 0 1 42.51969 150 cm
+q
+BT
+1 0 0 1 0 12.75 Tm
+10.5 TL
+/F2-0 8.25 Tf
+0.14902 0.462745 0.392157 rg
+(01) Tj
+/F1-0 8.25 Tf
+0.4 0.45098 0.431373 rg
+( Xinyi Wang\054 Bangzheng Li\054 Hanyu Wang\054 Lin Zhang\054 Andrea Yaoyun Cui\054 ) Tj
+/F2-0 8.25 Tf
+(Zhenggang Tang) Tj
+/F1-0 8.25 Tf
+(\054 Shyamal Buch\054 Dejia Xu\056 ) Tj
+0.14902 0.462745 0.392157 rg
+(SEAR\072) Tj
+T*
+(Self\055Evolving Agentic Robotics) Tj
+0.4 0.45098 0.431373 rg
+(\056 ) Tj
+0.098039 0.203922 0.176471 rg
+(Under submission\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.51969 102 cm
+q
+BT
+1 0 0 1 0 12.75 Tm
+10.5 TL
+/F2-0 8.25 Tf
+0.14902 0.462745 0.392157 rg
+(02) Tj
+/F1-0 8.25 Tf
+0.4 0.45098 0.431373 rg
+( Andrea Yaoyun Cui\054 Hanyu Wang\054 Xinyi Wang\054 Bangzheng Li\054 Lin Zhang\054 ) Tj
+/F2-0 8.25 Tf
+(Zhenggang Tang) Tj
+/F1-0 8.25 Tf
+(\054 Shyamal Buch\054 Dejia Xu\054 Matthew Tancik\056) Tj
+T*
+0.14902 0.462745 0.392157 rg
+(LIBERO\055RIG\072 A Hardware\055Setup Robustness Benchmark for Vision\055Language\055Action Models) Tj
+0.4 0.45098 0.431373 rg
+(\056 ) Tj
+0.098039 0.203922 0.176471 rg
+(Under submission\056) Tj
+T*
+ET
+Q
+Q
+Q
+
+
+endstream
 endobj
 14 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 11 0 R 12 0 R 13 0 R ] /Contents 29 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 28 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 15 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2412.06974)
->> /Border [ 0 0 0 ] /Rect [ 467.8147 794.2994 524.7546 805.0394 ] /Subtype /Link /Type /Annot
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 16 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2412.06974)
->> /Border [ 0 0 0 ] /Rect [ 42.51969 781.4994 315.611 792.2394 ] /Subtype /Link /Type /Annot
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 17 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2408.14016)
->> /Border [ 0 0 0 ] /Rect [ 103.7019 733.2222 358.8664 743.9622 ] /Subtype /Link /Type /Annot
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 18 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://openaccess.thecvf.com/content/CVPR2024/html/Tang_NeRFDeformer_NeRF_Transformation_from_a_Single_View_via_3D_Scene_CVPR_2024_paper.html)
->> /Border [ 0 0 0 ] /Rect [ 42.51969 684.945 352.8609 695.685 ] /Subtype /Link /Type /Annot
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 19 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2307.03119)
->> /Border [ 0 0 0 ] /Rect [ 93.25724 636.6679 484.7034 647.4079 ] /Subtype /Link /Type /Annot
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 20 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2210.11668)
->> /Border [ 0 0 0 ] /Rect [ 186.7758 588.3907 520.5213 599.1307 ] /Subtype /Link /Type /Annot
+/Annots [ 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R ]
+/Contents 34 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 35 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
 >>
 endobj
 21 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://openreview.net/forum?id=lvRTC669EY_)
->> /Border [ 0 0 0 ] /Rect [ 42.51969 527.3135 354.8657 538.0535 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057recordmp3\056github\056io\0573dargen\056pdf)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 173.1997 792.6 449.2117 802.5 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 22 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2108.06589)
->> /Border [ 0 0 0 ] /Rect [ 318.0902 491.8364 552.8198 502.5764 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572507\05605258)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 410.2469 755.1 533.5844 765 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 23 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2108.06589)
->> /Border [ 0 0 0 ] /Rect [ 42.51969 479.0364 254.4109 489.7764 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572507\05605258)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 42.51969 744.6 161.2867 754.5 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 24 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://patents.google.com/patent/US20240066710A1/en)
->> /Border [ 0 0 0 ] /Rect [ 100.7215 376.6128 419.5742 387.3528 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572412\05606974)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 434.5514 707.1 536.5627 717 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 25 0 obj
 <<
-/Annots [ 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R ] /Contents 30 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 28 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572412\05606974)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 42.51969 696.6 244.7272 706.5 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 26 0 obj
 <<
-/PageMode /UseNone /Pages 28 0 R /Type /Catalog
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572408\05614016)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 42.51969 648.6 277.7272 658.5 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 27 0 obj
 <<
-/Author (Zhenggang Tang) /CreationDate (D:20260928193913-07'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260928193913-07'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (Research curriculum vitae) /Title (Zhenggang Tang Curriculum Vitae) /Trapped /False
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057openaccess\056thecvf\056com\057content\057CVPR2024\057html\057Tang\137NeRFDeformer\137NeRF\137Transformation\137from\137a\137Single\137View\137via\1373D\137Scene\137CVPR\1372024\137paper\056html)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 42.51969 600.6 328.5884 610.5 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 28 0 obj
 <<
-/Count 2 /Kids [ 14 0 R 25 0 R ] /Type /Pages
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572307\05603119)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 42.51969 552.6 403.3499 562.5 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 29 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2645
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572210\05611668)
 >>
-stream
-Gb!$I>B^uG&qJm</*`8AJ0Lu]R?taW3$d-r!,!X(CI!F0VT&64gN3)/Db1D_,oCGo#5dHuj-EjuQ+jh$@6j?)1S9:K^hF>9^1Y5@oL?W4@RI=.c/-Ql:PeJd^^&lr0)$@`NPB973p.m/J_QA*Cebrc\,gQ@=LN"W0EoMU`,hHVB+]5](6c8Hf<b7*\VjU03aroSfG:eU$^.d_bna3C;_Xirgd**];#1*aH$OjF^H@:Crdb"L1p/p2<o^c>I0!\Z]mB97d/*jW2gU@hd2^mgJ`j7sdF_X[0=^A@VY2to!=p$I$_+,0/u1=]UIK79<#[>&lqkP9j`^/<_,XA`!5e8iF!/\JD3&NcR"CIcm<]<Ydj&(_*kCii,3&,PN5s;_Nt%5dCeP`YbHWX7+mgHO;QU:,bfK;0TV0(ofb(1hPJIB4%&o%P2)/1[>bVL\lDmSg+MCQ,0hn]&c(ds-eM)qiV"/aIAl?Tu%n))QGq;H`%$s:^`Zc1Tku%]N$kb9kELJ3LTQl\,)37`P&5s0R&>9Le:0N?**YoF>_Qdu]bYB3Y"tG4,(A31]lPm+6I)dC"iI4&%CGGdd2oP+5Upc7\quU'=m"")ufnC.P.r_KNUH5+>GK-.;A/*-facqTiDC!r4HI-]`-ulfb@=suKnf%\V]Gd]T7K^gi0:REL&j,UMU>):8[/uQNFCpZ?bU.V-89I0!k37W<,G-JDNWaG/',?5C_h2":#)h%qA'+()hVTuRMjB*0Gt>$FN,QY='eadF`],?Kc(*e<&qhoB5cgA1-)g*_NU6@[BIGUL7=p%GmXg)'_(D#>m9;\F"H;1WEX4nap4CgXijkXNS:J1Hp,G6Ud(,AKH`Y7RIr7B!V87B"k`0W`c*Q_*^"<+.\Rf8dY;<PYJ3"0tAL=lFQH7u/rqtCf98[,O8"6Zg9MO;e=@8BAE%0Y-28fS`R3+Ok6%5dU8h;d.V;3JukW5#NOeabE#;q+a_@+/%dLYBBesM->=X_>\*fl<#BWX[KM#(tFJjLZ.l(8e;Se:1$6I(D\faTg0jdAZdI&2W(@ZLdQnX8k+#!F_T=A**WAe_6l"YfW.>c&ur#?Qa#&ZA4Z%c+RU@<*mm">60)-?+NihJoBO_icS4n/(#g65"/LN:scjKo`A!A)NS-W'OM/oN/MD*h-FG3tE^C:fQkt4F:/h7Yg"=K#aYQP]V+9<eYETSVGM4VpGqFiDHQ&nOZ1'rgM)$(Ltkg<W*q]pZYnO:l5cE@=7YVS@8M\*eEMk?-cjj=C?n*Ws0[;fYG!@E22_D#fOrM;V-6jq!cm8ZdWYq2O^g$5[\bfb?Ccj:Jd1-oo"t'QW\#a7sh2Dp)!iH(j'W?Ir(Wdk&-,5PA.I<nkCHS);NZc9#KDS".nX1)JXb4-I\tKSL]&&LIL+>^m0\=q3?57;ST*1BA9?IU>+k-I5^XA6!]a6\_2A_->`tq?Ce454E))\$X],VBZ1f$Ya#$c"$M2e%>D@`?5(u^9[Ab'B4<J;2&!l=fa6mOCJCm(F.J,_)<N046X<Eh$;n=PapG;l)%6A$a#THQMu*+&89,(g6WPCV&`2h5iF'_d'*IiK'f%\Y4p"N;+X=c3IO^qt@o,9/SsHbi'<`4ubl\[SM*<Zs0cEV.%&A\g,\fjrnn+FY3^=t":./KSW%#qi.Vb_H#`OV<0ULcWr>fKq5Eb76+V.KW[iKDIlW'iFF>4nd:;U\fitg];Pl:kUKaoM)negY/Qh\=KHA>=TDc:T?6n+)(W8HfbR!O/^`1Kt!s*CTuNPcWc2gAH08+k)c7%iS0$hu2Mc.I<9o%>bqo26oGFscZG<!sp%O2^[':P6@KQU`OQG(K@KBmU^7YuQ0FVn@lLJk:sbP18[T8UY(FmVBW0nn[Qm<IYHo*]HYUB3J5RFMI3aZ'NVNIO$[+/"CWp:`QD^1'U[e@[#$Q1lUNIO'Vf[L\fbSP9ZHe#FYD!%d$sH_dIMO'A)DC5@44'P$'e9<2rD*Pf2'Mq+C54pCb5KbL*t82p6t;Vj57BC(A/9&<iIRH]dELaT>S0@(mRlV2*%)70;ID%.]_gG!RQ_GuF?`?l::9T)T^ZmHL-YP)#)[QM]9A>pA!;[CXC(F(c=@0T3jT0#h#XpVeDJ94Uo>)k??1kPH:lT9t]NTmmU1,lF(F>Qo;Mk5*FW=<U;/?%F^@F_C625IA&65&IcdCRo;t?MrH9=Unl:Ou=*ji1;PnXi9D'Kt7S\"1PV$Pnd*JHhSOm=["G7D;De<q.ZKo'u&dc[t6he]D`0ogDJe&BR(]k\FqA4Tn-!]9C83lb2:.5$D6D?5/2ZORUF>5$,1bi-ddQGiJY?Q].'_,aN`1/GU(Xn503_s#="CaRT&anpPID+in.[5%c5+SF)>4C7&6g-s3Kb>Pa`<D66CD&j+]bL=6R9#+cNWt^<:8ZWaR6'?KUBsY(KB*h:SJ-ajmk63[ghMIk&oh3VMD`gZ'/DU(A-qEQnH<f\+*]aFW`+B5(/sB-G;;Mqj(arN1W*TN0rMa@p=%Uu(,>gl-U8I<:%jK5g6fo2?>M+^Bbc,fTPN<R#sInga&].:%@@VJ88F-mV>L]7'4P`3LW)<1,Qfm&N7$AiuE:MRE%Nc/Dj^,gtp@8q(*r5"8_8MtZGum[(`Jg,OX"3!C:@npcm9VIf~>endstream
+/Border [ 0 0 0 ]
+/Rect [ 136.0582 504.6 443.7007 514.5 ]
+/Subtype /Link
+/Type /Annot
+>>
 endobj
 30 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2605
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057openreview\056net\057forum\077id\075lvRTC669EY\137)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 501.5084 467.1 544.5982 477 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057openreview\056net\057forum\077id\075lvRTC669EY\137)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 42.51969 456.6 285.0532 466.5 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572108\05606589)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 296.5372 419.1 537.2309 429 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572108\05606589)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 42.51969 408.6 214.4579 418.5 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2509
 >>
 stream
-Gb!<P>?BfT&BE],'_U\$d[O"[\]c"EU,.$s5TN#bdY8N`bQW(8@F'DtXmSR['gXe(baphL98^G_rUR.l*XW,NU\Yls!':;X@ug[K@;l\*-8l:DYWLLIh&mapHk2%r3Mt!h'jkb]^!6gjE5*!;D%]<d`s:'<QL3<77)50]>fPp?$_b=4:#Z^[c/K?#<3tM)`%Ism/S_g3Ua'GFX&[HBTH:@4L5V!uo5]?TW7,H%F^Ujpn..eM[+@BQST[d>iTst!h#.ZdhdE[bVO/<^fcKZh7MeNMkA:1:D*ONDFa[MbDkjr6p=sW^k7EEJ;5gJ&f#:ou\36I`D%^U\L5?j"rC/?q0jG5J#b-RF-WN?u=hil$fS%E8ER`7VZ%tmp*fj]ZQY5>pDSnmTTFL8XGT5?lPVJ]'jYlHQnRu+Af4#\Fr'k4,I#5TeX(Eco6U)FF94`<-Q>1p^>k",F.sPVYLM)V?Bg9(Q^OLS!jCTLS#t:V]o9$h.74b)ZJgAY4Zj:]?`,M7o&bIG5bljP.EM!7adtGH@)J8*$07&:6G6pPS_t&AGGVsK+e9,SoC@g$08InM4AFF^:.pG7+27mXa9,8q&R5<t:f>7,)B.k3+'VCoDTIpfCNs+u@aJhFp$B8D.b`f"]0556WP2Be4*i@;N4AEg.6+l,HjVK!$:RUR-F<m_;.)IFJ8aa$"W9n4QDHrhDFG3gkl\YNl_?S:KMT$,:M_LJ,`?015dZeN*mq"\;[[?!\;og-9[1UTU83[)I3)@tlCn+16jN'T/o@Qs"*"No9n(1"Uqk(#K.(UCnDZ-[@W@*diYEC8q$MYnK[1,4>4c8(+](7q=Gs:@F$rR[CKm\d5jS3^bVSW%2MJu[,L!Y\KJZY>1?eOA"kj>dsFco3<r<2C!:;PsaID[0"N'f%A>1)8'Ej48_r9]3[r<LEt\rZ:ufJnnB1V*L*DCh8:PsJ^639u1fR+"N/gFG#4HANl2PnKa2+`Fbr8Bc`m=`O(:WaG3cSMcP>9G?$Cg-3O6U7"oRMaV-ri_b72;D^(+Wo7"E:KR$B<g/ludi=3(LP%S,(W<9"]]Z8E<Y@hi/;";3,_b8M/gDE<^H,+)^UrAl:hU51SU5+.JZ+X60C?1LCu%Eh*Pa'L^1FfI!Fr9$=Cpt)0G@*`G6-iTUb_?,OP^`a7kH1L+\t,L=sG*%-q&,3FWlhgKipVV'1MS%RL5`%A/^=6\k+Z&`9Wh!4VP6ReFbjaNT3!g5-;\bCY[ZE..UnHl;XWpCF*C;1WAAq/dr58/13m-F+#Radj2#UZ\);^3SS>_^bKG/%q@3;KZmuFX:4Al1p8Oi?IUZ/6QnQrMPhmYKO6.%p'Zle;HNQA4,1kYb1[M,M^Cb8,E-jh#70k3G+nbcb321/H*L*cCs+A#mR4&XX=`rO<q#WHf$CUS&gJ:0NYq@LM86&@fFoZK6e-#^0m!AsAZ\^Z\iLYU)Ta`'*R:mR*8>V?PB:-u#oa('*6[rYf=cYi7fJ0PoS#rgghj%_Q`FMgId&tmPFTW$lPNd+Qd_CB."a?B1aX(8'.$Zk^-U[,d868eqt_QQ6Q+)Z^c31R6(=d??:]U8MMd'SU'@TUW57b-$H>pE&ZJP:8[L[9GktFsI537;cA'6LFhPNo8iF#4l2/Z93nq*!>oDG#4:o>.W'H6_`T]/tUEjUg=)hGPN=[LpQ<1XS=D*2>5q"P&EdgC50'CaI6AD)LS=L!M0#StC*GJO<HF\6l/t\EP\(!4-I7ou7s%.:9HSfuQi47`C`e\OeVKT%Q[ad@&WERndr;63QWE"4[V+-Ani@(SbR.rt<;#RrK4dJHl4*/`JU1=um9.L43dR.hik?F5GPU%oj5RUT3$\cYQs3=[gX.T9?#fa-^/ZPfo-qaZM,=n$!,gUQ[NQ%lQmpqm*lIjE)_G3/1T)+=WGZE:0`(/h[hWU3r#qCb2P+an(KFapL;)/6$PBq^Ta4n&-]3PlZV+q"fSUW]mbuV0aH[*nhrbh2kTXFZtiGU4DI>>Pi;)eVW8$$W/2=$+!WD7YO4C,=7*,:+#b6-QXB<u1W=p9Nk*=aC7fVYU+1t:'S%1ST,1'I&S&WHshB1ntJFT>a7"&sQPe,bkFe?sMX-FRR!k3JLD[!K/%gkUS025C2"hn-#Ag$6AB#jPWkq[nsoblq-p\Hc*ple6_\Tsom?.:rA%q`YW]H>q;>*IWi*Djp3O4SNuDU"MJ[r^!I2CS'l[1R%`:(@#qZEu*F)/1aRA.c8t4$N9==]753Mgj;ZEcd/n!K0PrT]d:i7O*[Dd^"#8%jD][9*o/#>4/e?r6T>cI*c>cW)CIY/f@[PQ`78RGOMPorN@'f!i@c`"A^$i"1[I,Rr3,"D6Fs\Z"ZI9W=Nn4h+nkhOhT`:b@Mh4L7*4pAT;%+?1S]0arb?a.es,sj^V*(95<O?3hMLkJ5aIZFiCMS;f_E^cJgL.r[!m^b\4Ra?pCNJ57CX1s`VXF=`3G0ZS,TT&Odr>;5"SJC,YaJLI@QqLfiV!G2j7+],>dS"f[5uI,g!GTd)Z@1<pt0>s,kWd:OHp&74<UI;q'(:_Yl>9A37_Pm9_#%720`T'bPP50biofV/K=oH5c)_9US]Vp\or-IfXU8Et\~>endstream
+Gau0D?!$%.&q0LUe>$Y/A<N$>Qo>.9'[T4ANir!%L)0WQUmZV/bW7uf<cnIU*!T5Zl&$hPY,^nq]68<*d.,.Q=$HgIo&/i=!JUp;4W'JsJN&+^GOXY.-q7C;AfK!@',jRYVr/MaA$!lkVUhuf$c11IRjNVJ2Smd7Rga%de^R=?XLd)hCsZoke$'c&:Z5-Rr<;&mb5#eZKtk(QFRW)NW&8=)+;EjBX<-6DGVktsBF5eeI^=+jV#iRnT.pZ(pg2eP3!G=F<.WLLWh*c6[.+I9WSRn;FMh`+3"rVep&M7ciLAR>c<ZMF1/`\<`A7rcajf.64n*!Z>^Ki9E6P&+a`p;Y+t=qpc3/D]gFUeD<G^<K<gLmq:LftAifU"0qthoV14l3in:3XYb8AqgSBF<rpjr\-n`R9Jb%e$\4Wa-\dIZ/@g9"ULJ^=!m'/UB+-AH"el;kf!6S>,?O!2X56BR@VD7N'YM8/Rn?!^Xa54cYF2(q^lr(3ieCoG,](TF3p&-To_GAMh,_0&e(7g<BS">".=@^A$cq'<(-/)\b3qQhQV]H'ak:1.$aNd/MKeR1*/#%Ppk)2Z3RjUJhc=UO!K;8b3sH'BYkU'\2S68J?RPl:;p!2aYbGJLH>XR?fiqt%>r/"+S.4-9Y+I*\,FKI&.ld(P^2_lIP8dS4N;s*Xtck6JZbVJOCV&@t&'&#&Y.YVaW>Ec<,D&24@KKYs)5:C1Er-FbmInj-O8<u5A`eV<[8CTn2VQEsA+l^nLO"W%Q,&EQp#NA\@JJm3e6%g`jo7OV@iB7_Tm6_r%1PeP/jjmeQg^rq<5H]X;U+GkpFC-UX([;R"MH6Jl*:dqS:LehEG"f\F5R\aa,:El>qLX5MEbJXP(FV&(7UAG#f>/h)p9[7h_>1`KTFQ50.^7?EQIjuM"8Vk+h-:>WSF]W$0QVY]mCO1&Z>*ks#K,=.K/mo'?2T=Dq&c8n]_1P=>4B'\9XO'&E46#;\%S'Y2H2J-8%UH:eTdT2\`iS+3+u27f#,o!kl]2/DZmRb945ao/HgSV=?1E?B\C=3cWuj]\ju?^hnO$/M@%A?p!q&uQZ]C>mG;(`aPo'Us`^_T&].kQm.JsY#oE;@,r?a>45X"$V-K-OIgmXte69e*4&)pi24gCAQEtr;Ln-eTfh)_1+,"2+LB:[)-@,5J`B5.R8oOA6Rk9!?JZVH92TXIJtk^2^)R\.^k,8RM=/7ciD/=Ks*79qGPf+PY_pD]+m;]`FtT2XHhMjSR^"`_<k(e?Y?&\b'YbI[^hES)o6j5*Z+4:2k-79n^0g?o$6b'D;,V!,XI5YuB(4iY9Fa<E@b!g]if;&[X9UOCn,[;.s.p-/@36iYXl)6#W*qh<s/]m5&0_\3dMJEkl["9Q-^qdV6Xd6UGpLk*!K+M_W\N4Qf6d#Gg^Ilk^lOneL0a5ua$K-r89d)nen9i9R=<;:^2R'B/4W)C_ZF"@n:l6n#.;a:"qdd":HWpgt>^o["2K/8H^L&$Z6C9>6IGu(F%,5kL^=%-Aj!QqC_<:/Ok0#jZV+%l`TNgO&_k<o.P';FD);0)@),3BQ$ZhH4(6ga_PNKD=s%G=B#?_KVPF[6*nVm@0j<T7N(ZM;%Vr+6kYUZlpUBthT2S`,4\4%r"?gXn'k_N`tbj[.5>$1gNkpEN%Bnu:c-4!dI0=+:]7G@jbP-uXjRaW4D!Ed,q%\g+CphoXL.3!^F3k2b0SHO$!V_p^nN[UDElh$`AGS_jY0Y"SDUdF9*#;Vfc9H)_hZ-`T;nX:<;K8,4<V#k24umN5)YDJ_seCT25fqpJgsCRqI?1:BeKP-aO,n@1]@`/h!]+@"HqoiW]/G;;nB3<U96?N-0#d\e<POkd2EYLKh1G]HNc%J^I"R]@U(W&'%VHlainTomj?E5!65Vd_[KD`PM/ACG[ST@0jlDKWP.IN.)1po<6>^+]$#VN(:AWL#iBjP.U>8#n'SC<cU0?qmPmR4;>(iCa3;"rk!>UDp&GeE]Je.TM(I]RH;Pf3_;u\QD)KC1=hFh0buYQZ^fEe%4r?e[BVMhm\WrZs)W'/mak6-5S>YYa3a-4H'(Qm^AB_mp!nK>,sdh\)6M2>8J[68d*nWY-LEAXi!<La>ES,e&hFLI-eS24GJhrb2cD1Lcd2Z==P(l_u:nlBCcIZO&W;!K^[#j!^f.[5t,X&on*#!*[SKA($BR$Jb*7]c39]Q5DO*WFptUU6h0csJ,Uq$nIO,UHFIl7:'5_0`VY`KnBS!$N5]]c0c[+DF&rLs<\E!%X'saB@`9/\eH2sSQPT:\i3?_?.BXJBVciN:i9SWs,>]B?7%J^9.-"DnWDdgW,r79rKU(#RKg<]?8Yp+Ej?9nJ$+<V.lno6\,N3<*e#AT636`Yt'n9UG[]r4E$UY-c/;+&I-Che&5*0;]7]Ptpl/H!RY3`nTekOY@`OoP8CV+!)22@!D!H&N$6OgrCDbms>?EZ6OJO^OO&"n>2*r"EUK?GECot=CMI4_cW7r(#eI9W*p9*=/2s6dlY.K~>
+endstream
+endobj
+35 0 obj
+<<
+/F1 15 0 R
+/F2 17 0 R
+>>
 endobj
 xref
-0 31
+0 36
 0000000000 65535 f 
-0000000061 00000 n 
-0000000123 00000 n 
-0000000230 00000 n 
-0000000339 00000 n 
-0000000515 00000 n 
-0000000695 00000 n 
-0000000901 00000 n 
-0000001081 00000 n 
-0000001286 00000 n 
-0000001398 00000 n 
-0000001514 00000 n 
-0000001706 00000 n 
-0000001890 00000 n 
-0000002074 00000 n 
-0000002343 00000 n 
-0000002528 00000 n 
-0000002712 00000 n 
-0000002897 00000 n 
-0000003190 00000 n 
-0000003375 00000 n 
-0000003560 00000 n 
-0000003756 00000 n 
-0000003941 00000 n 
-0000004126 00000 n 
-0000004331 00000 n 
-0000004619 00000 n 
-0000004689 00000 n 
-0000004999 00000 n 
-0000005067 00000 n 
-0000007804 00000 n 
+0000000015 00000 n 
+0000000361 00000 n 
+0000000427 00000 n 
+0000000476 00000 n 
+0000000809 00000 n 
+0000000994 00000 n 
+0000001192 00000 n 
+0000001425 00000 n 
+0000001620 00000 n 
+0000001855 00000 n 
+0000002053 00000 n 
+0000002253 00000 n 
+0000002453 00000 n 
+0000012418 00000 n 
+0000012526 00000 n 
+0000012634 00000 n 
+0000012744 00000 n 
+0000012857 00000 n 
+0000012970 00000 n 
+0000013086 00000 n 
+0000013391 00000 n 
+0000013598 00000 n 
+0000013796 00000 n 
+0000013996 00000 n 
+0000014194 00000 n 
+0000014394 00000 n 
+0000014594 00000 n 
+0000014952 00000 n 
+0000015152 00000 n 
+0000015352 00000 n 
+0000015564 00000 n 
+0000015778 00000 n 
+0000015976 00000 n 
+0000016176 00000 n 
+0000018778 00000 n 
 trailer
 <<
-/ID 
-[<1d463ead4b020cdf6351ab53950ef1be><1d463ead4b020cdf6351ab53950ef1be>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 27 0 R
-/Root 26 0 R
-/Size 31
+/Size 36
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-10501
+18822
 %%EOF
